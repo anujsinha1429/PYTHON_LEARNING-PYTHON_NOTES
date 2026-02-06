@@ -7,6 +7,7 @@ This repository contains my day-wise Python learning notes.
 - Day 2: Python variables and datatypes
 - Day 3: Python string and it's function
 - Day 4: Python lists and tuple
+- Day 5: Python dict and sets
 
 ## 📂 Folder Structure
 - notes/
@@ -14,6 +15,7 @@ This repository contains my day-wise Python learning notes.
   - day_2/
   - day_3/
   - day_4/
+  - day_5/
 
 ## 🎯 Goal
 Build strong Python fundamentals before moving to backend development.
