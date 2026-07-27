@@ -8,8 +8,8 @@ def login_required(func):
 
 @login_required
 def view_dashboard(user):
-    print("Welcome to your dashboard")
+    print("Welcome to the dashboard")
 
-view_dashboard({"logged_in": True})  # Output: Welcome to your dashboard
+view_dashboard({"logged_in": True})  # Output: Welcome to the dashboard
 view_dashboard({"logged_in": False}) # Output: User must be logged in to access this function.
 
